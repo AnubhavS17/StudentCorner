@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PdfFragment"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="vertical">
+
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:text="SEMESTER 1"-->
+<!--        android:paddingLeft="10dp"-->
+<!--        android:paddingTop="10dp">-->
+<!--    </TextView>-->
+<!--    <ListView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:id="@+id/list_view2"-->
+<!--        android:layout_weight="1">-->
+<!--    </ListView>-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="SEMESTER 2"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp">
+    </TextView>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list_view"
+        android:layout_weight="1">
+    </ListView>
+</LinearLayout>

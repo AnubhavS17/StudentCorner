@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754026956024",
+    "project_id": "community-backend-b3abe",
+    "storage_bucket": "community-backend-b3abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754026956024:android:fdb239d03a1b41dbfe670d",
+        "android_client_info": {
+          "package_name": "com.example.communityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2VhCrivlIqcD_GGDf_OILrk_NQc05P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

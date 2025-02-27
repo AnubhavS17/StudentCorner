@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StudentCorner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="subjects_names">
+        <item>MACHINE LEARNING</item>
+        <item>SECURITY IN COMPUTING</item>
+        <item>CYBER LAW</item>
+        <item>SOFTWARE QUALITY ASSURANCE</item>
+        <item>CLOUD COMPUTING</item>
+    </string-array>
+<!--    <string-array name="subjects_names2">-->
+<!--        <item>ARTIFICIAL INTELLIGENCE</item>-->
+<!--        <item>ENTERPRISE JAVA</item>-->
+<!--        <item>INTERNET OF THINGS</item>-->
+<!--        <item>ADVANCED WEB PROGRAMMING</item>-->
+<!--        <item>LINUX SYSTEM ADMINISTRATION</item>-->
+<!--        <item>SOFTWARE PROJECT MANAGEMENT</item>-->
+<!--        <item>HBSU SYLLABUS</item>-->
+<!--    </string-array>-->
+</resources>
